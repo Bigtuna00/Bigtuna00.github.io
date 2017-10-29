@@ -1,0 +1,43 @@
+.bodyText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: smaller;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: justify;
+
+}
+.bodyLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: smaller;
+}
+.navbarLink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: smaller;
+	font-weight: bolder;
+}
+.bodyTitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: larger;
+	font-weight: bolder;
+	color: #68692E;
+
+}
+.bodyPath {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+	color: #683300;
+	font-size: smaller;
+
+}
+.bodyTextBig {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.bodyStrong {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	font-weight: bold;
+	color: #683300;
+}

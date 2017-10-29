@@ -1,0 +1,4 @@
+User-agent: *
+
+Disallow: /wedding
+Disallow: /baby

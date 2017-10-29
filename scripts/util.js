@@ -1,0 +1,1 @@
+function getCurrentYear() {	var currentYear = new Date().getFullYear();	return currentYear;}

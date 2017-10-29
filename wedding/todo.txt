@@ -1,0 +1,6 @@
+Done:
+
+-Add photos page.
+-Add a "Contact Us" page under "Home".
+-Figure out how to generate the navbar!!!
+-Rename the "Please read!" links to "About".

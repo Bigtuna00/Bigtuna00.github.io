@@ -1,0 +1,5 @@
+Convert copyright and contact into an include; use JS to get the year?
+-Eventually make this a server request; it shouldn't be changeable on the client.
+
+Detect the window width and set the container CSS appropriately.
+-Left justified with variable width.

@@ -1,0 +1,31 @@
+body {
+	background-image:url("/gifs/black.gif");
+	background-color: #0000C0;
+	color: #F5F4D8;
+}
+
+li {
+	color: white;
+}
+
+a:link { color: #75B1D8; }
+a:visited {color: #4581A8; }
+a:hover {color: red; }
+
+.table-container{
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.table-container-header{
+	text-align: center;
+}
+
+#table-container-news{
+	width: 600px;
+}
+
+#table-container-header-news{
+	padding: 20px;
+}
